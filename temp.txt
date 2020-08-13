@@ -7,4 +7,6 @@ carrot
 beans
 chicken
 team
+India
+USA
 cricket
