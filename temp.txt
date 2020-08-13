@@ -1,4 +1,6 @@
 hi all
+same code patch need to be added
+and looks for fix
 how are you
 welcome to devops technologies
 
